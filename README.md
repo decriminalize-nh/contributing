@@ -3,7 +3,7 @@
 ## Step 1. Create a GitHub account
 Visit https://github.com/join and create an account.
 
-GitHub uses Markdown for text formatting. If you don't already know the basics of Markdown, you can learn [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax). An easy way to see how Markdown looks in practice, outside of the examples provided in the previous documentation link, is to click the "Raw" button on any Markdown file on GitHub (denoted by the file extension `.md`). For example, the raw Markdown file for this document can be found [here](https://github.com/decriminalize-nh/contributing/raw/main/README.md). You don't _have_ to use Markdown, but it is nice to know in case you need to format text and a [WYSIWYG text editor](https://en.wikipedia.org/wiki/WYSIWYG) isn't available in the box you are typing in.
+GitHub uses Markdown for text formatting. If you don't already know the basics of Markdown, you can learn [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax). An easy way to see how Markdown looks in practice, outside of the examples provided in the previous documentation link, is to click the "Raw" button on any Markdown file on GitHub (denoted by the file extension `.md`). For example, the raw Markdown file for this document can be found [here](https://github.com/decriminalize-nh/contributing/raw/main/README.md). You don't _have_ to use Markdown, but it is nice to know how to in case you need to format text and a [WYSIWYG text editor](https://en.wikipedia.org/wiki/WYSIWYG) isn't available in the text field you are typing in.
 
 ![](images/wysiwyg.png)
 
