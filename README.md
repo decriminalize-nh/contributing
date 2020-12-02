@@ -42,7 +42,7 @@ The next page gives you the option to review your proposed change one more time.
 
 If your proposed change will take longer than a single sitting, you can also click the arrow next to "Create pull request" and select "Create draft pull request". This will indicate that your changes aren't done yet, and you will come back later to finish your proposed changes. 
 
-Once your proposed changes are ready, you can find your pull request in the `Pull request` tab, click into your pull request, and click "Ready to review".
+Once your proposed changes are ready, you can find your pull request in the `Pull requests` tab, click into your pull request, and click "Ready to review".
 
 ![](images/draft-pr.png)
 
