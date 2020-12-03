@@ -1,7 +1,11 @@
 # How to contribute to Decriminalize NH projects
 
+This document demonstrates some of the basic ways that you can contribute to Decriminalize NH on GitHub. For more info about how to use GitHub, check out the official [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github) and ["How to contribute to open source"](https://opensource.guide/how-to-contribute/).
+
+If you have an questions, feel free to [open an issue](https://github.com/decriminalize-nh/contributing/issues/new) in this repo and ask!
+
 ## Create a GitHub account
-Visit https://github.com/join and create an account.
+The first thing you'll need to begin contributing is a GitHub account. Visit https://github.com/join and create an account.
 
 GitHub uses Markdown for text formatting. If you don't already know the basics of Markdown, you can learn [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax). An easy way to see how Markdown looks in practice, outside of the examples provided in the previous documentation link, is to click the "Raw" button on any Markdown file on GitHub (denoted by the file extension `.md`). For example, the raw Markdown file for this document can be found [here](https://github.com/decriminalize-nh/contributing/raw/main/README.md). You don't _have_ to use Markdown, but it is nice to know how to in case you need to format text and a [WYSIWYG text editor](https://en.wikipedia.org/wiki/WYSIWYG) isn't available in the text field you are typing in.
 
@@ -42,9 +46,11 @@ The next page gives you the option to review your proposed change one more time.
 
 If your proposed change will take longer than a single sitting, you can also click the arrow next to "Create pull request" and select "Create draft pull request". This will indicate that your changes aren't done yet, and you will come back later to finish your proposed changes. 
 
+![](images/draft-pr.png)
+
 Once your proposed changes are ready, you can find your pull request in the `Pull requests` tab, click into your pull request, and click "Ready to review".
 
-![](images/draft-pr.png)
+![](images/ready.png)
 
 Now other people who are watching the repo know that your pull request is ready to be reviewed and they can begin leaving comments and suggestions. If one of the repo maintainers thinks your proposed changes are acceptable, then they will merge your pull request and your changes will become part of the main branch of the project.
 
