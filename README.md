@@ -2,7 +2,7 @@
 
 This document demonstrates some of the basic ways that you can contribute to Decriminalize NH on GitHub. For more info about how to use GitHub, check out the official [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github) and ["How to contribute to open source"](https://opensource.guide/how-to-contribute/).
 
-If you have any questions about how to contribute, feel free to [open an issue](https://github.com/decriminalize-nh/contributing/issues/new) in this repo and ask! Please remember to abide by our [Code of Conduct](coc.md) when contributing to Decriminalize NH.
+If you have any questions about how to contribute, feel free to [open an issue](https://github.com/decriminalize-nh/contributing/issues/new) in this repo and ask! Please remember to abide by our [Code of Conduct](COC.md) when contributing to Decriminalize NH.
 
 ## Create a GitHub account
 The first thing you'll need to begin contributing is a GitHub account. Visit https://github.com/join and create an account.
