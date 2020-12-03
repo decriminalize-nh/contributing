@@ -48,7 +48,7 @@ If your proposed change will take longer than a single sitting, you can also cli
 
 <kbd><img src="images/draft-pr.png" /></img></kbd>
 
-Once your proposed changes are ready, you can find your pull request in the `Pull requests` tab, click into your pull request, and click "Ready to review".
+Once your proposed changes are ready, you can find your pull request in the `Pull requests` tab, click into your pull request, and click "Ready for review".
 
 <kbd><img src="images/ready.png" /></img></kbd>
 
