@@ -4,14 +4,28 @@ This document demonstrates some of the basic ways that you can contribute to Dec
 
 If you have any questions about how to contribute, feel free to [open an issue](https://github.com/decriminalize-nh/contributing/issues/new) in this repo and ask! Please remember to abide by our [Code of Conduct](COC.md) when contributing to Decriminalize NH projects.
 
-## Create a GitHub account
+## Getting Started
+
+### Create a GitHub account
 The first thing you'll need to begin contributing is a GitHub account. Visit https://github.com/join and create an account.
+
+### Familiarize yourself with Markdown
 
 GitHub uses Markdown for text formatting. If you don't already know the basics of Markdown, you can learn [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax). An easy way to see how Markdown looks in practice, outside of the examples provided in the previous documentation link, is to click the "Raw" button on any Markdown file on GitHub (denoted by the file extension `.md`). For example, the raw Markdown file for this document can be found [here](https://github.com/decriminalize-nh/contributing/raw/main/README.md). You don't _have_ to use Markdown, but it is nice to know how to in case you need to format text and a [WYSIWYG text editor](https://en.wikipedia.org/wiki/WYSIWYG) isn't available in the text field you are typing in.
 
 <kbd><img src="images/wysiwyg.png" /></img></kbd>
 
-## Pick a project you want to contribute to
+## Start a new Decriminalize NH project
+
+### Request to create a new project
+
+Open a [new issue](https://github.com/decriminalize-nh/contributing/issues/new/choose) in this repo with the title "New project: Decriminalize xyz", replacing "xyz" with whatever activity it is you want to decriminalize. In the issue description, give a brief introduction to the activity you want to decriminalize and any relevant links to explain the problem in the context of New Hampshire law if you have any research or news articles on hand. End the issue description with the statement "If my request is granted, I agree to abide by and help enfoce the Decriminalize NH Code of Conduct", which you can again find and review [here](COC.md). 
+
+A repo maintainer will review your request within a few days (maybe up to a week or two if they are on vacation). Feel free to get started right away by creating and working in your own repo under your personal GitHub account, and if your request is granted then we can always move your repo into the Decriminalize NH GitHub organization later.
+
+## Contribute to an existing Decriminalize NH project
+
+### Pick a project you want to contribute to
 Take a look through the projects in the [Decriminalize NH organization](https://github.com/decriminalize-nh) and decide which one you want to contribute to. 
 
 Let's say for example you are interested in helping with drug decriminalization.
@@ -24,12 +38,12 @@ Click through the files and directories in the repo to familiarize yourself with
 
 <kbd><img src="images/repo.png" /></img></kbd>
 
-## Create an issue to discuss any ideas/questions/feedback you have
+### Create an issue to discuss any ideas/questions/feedback you have
 Once you have familiarized yourself with the repo's contents, you can feel confident leaving good feedback. The best way to start a conversation if you have any ideas for improvement, questions, or feedback about the content is to create an issue in the project's repo. Go to the `Issues` tab and click "New issue".
 
 <kbd><img src="images/issues.png" /></img></kbd>
 
-## Create a pull request to add a suggested change
+### Create a pull request to add a suggested change
 Pull requests are used to suggest changes to a repo on GitHub. These changes can include editing an existing document, creating a new document, or uploading a file.
 
 To edit an existing document, first click on the document you want to edit. Make sure the document is on the "Main" branch, so that you're editing the most recent "main" version of the file you're looking at. Then click the little pencil icon at the top of the document to begin editing.
@@ -54,7 +68,7 @@ Once your proposed changes are ready, you can find your pull request in the `Pul
 
 Now other people who are watching the repo know that your pull request is ready to be reviewed and they can begin leaving comments and suggestions. If one of the repo maintainers thinks your proposed changes are acceptable, then they will merge your pull request and your changes will become part of the main branch of the project.
 
-## Reviewing a pull request
+### Reviewing a pull request
 One way that you can help a project on GitHub is by reviewing other people's pull requests. You can do this by visiting the `Pull requests` tab and clicking into any open pull requests that look interesting to you.
 
 Here's an example of what an open pull request looks like:
