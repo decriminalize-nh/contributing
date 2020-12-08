@@ -2,7 +2,7 @@
 
 This document demonstrates some of the basic ways that you can contribute to Decriminalize NH on GitHub. For more info about how to use GitHub, check out the official [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github) and ["How to contribute to open source"](https://opensource.guide/how-to-contribute/).
 
-If you have any questions about how to contribute, feel free to [open an issue](https://github.com/decriminalize-nh/contributing/issues/new) in this repo and ask! Please remember to abide by our [Code of Conduct](COC.md) when contributing to Decriminalize NH projects.
+If you have any questions about how to contribute, feel free to [start a discussion](https://github.com/decriminalize-nh/contributing/discussions/new) in this repo and ask! Please remember to abide by our [Code of Conduct](COC.md) when contributing to Decriminalize NH projects.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ GitHub uses Markdown for text formatting. If you don't already know the basics o
 
 ### Request to create a new project
 
-Open a [new issue](https://github.com/decriminalize-nh/contributing/issues/new/choose) in this repo with the title "New project: Decriminalize xyz", replacing "xyz" with whatever activity it is you want to decriminalize. In the issue description, give a brief introduction to the activity you want to decriminalize and any relevant links to explain the problem in the context of New Hampshire law if you have any research or news articles on hand. End the issue description with the statement "If my request is granted, I agree to abide by and help enfoce the Decriminalize NH Code of Conduct", which you can again find and review [here](COC.md). 
+Start a [new discussion](https://github.com/decriminalize-nh/contributing/discussions/new) in this repo with the title "New project: Decriminalize xyz", replacing "xyz" with whatever activity it is you want to decriminalize. In the body of your post, give a brief introduction to the activity you want to decriminalize and any relevant links to explain the problem in the context of New Hampshire law if you have any research or news articles on hand. End the post with the statement "If my request is granted, I agree to abide by and help enfoce the Decriminalize NH Code of Conduct", which you can again find and review [here](COC.md). 
 
 A repo maintainer will review your request within a few days (maybe up to a week or two if they are on vacation). Feel free to get started right away by creating and working in your own repo under your personal GitHub account, and if your request is granted then we can always move your repo into the Decriminalize NH GitHub organization later.
 
