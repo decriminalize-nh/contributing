@@ -79,7 +79,7 @@ To review the changes, click on the `Files changed` tab. Here you can see what t
 
 There are three ways to leave a comment, if you have any questions or feedback for the author:
 
-1. You can comment on the entire pull request by click the "Review changes" button, entering your comment, then clicking "Submit review".
+1. You can comment on the entire pull request by clicking the "Review changes" button, entering your comment, then clicking "Submit review".
 
 <kbd><img src="images/pr-comment.png" /></img></kbd>
 
